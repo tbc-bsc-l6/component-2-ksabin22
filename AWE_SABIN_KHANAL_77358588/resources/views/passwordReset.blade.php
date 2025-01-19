@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Password Reset - Awesome Petstore</title>
+    <title>Password Reset - Awesome Productstore</title>
     <style>
         body {
             font-family: sans-serif;
@@ -76,7 +76,7 @@
 <body>
 <div class="container">
     <div class="header">
-        <h2>Awesome Petstore</h2>
+        <h2>Awesome Productstore</h2>
     </div>
     <hr>
     <div class="otp-section">
@@ -90,7 +90,7 @@
     </div>
     <hr>
     <div class="footer">
-        <p>Awesome PetStore</p>
+        <p>Awesome Productstore</p>
         <p>All rights reserved</p>
     </div>
 </div>

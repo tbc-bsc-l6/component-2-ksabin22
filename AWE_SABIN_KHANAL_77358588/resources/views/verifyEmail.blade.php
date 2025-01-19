@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>OTP Email Verification - Awesome Petstore</title>
+    <title>OTP Email Verification - Awesome Productstore</title>
     <style>
         body {
             font-family: sans-serif;
@@ -76,21 +76,21 @@
 <body>
 <div class="container">
     <div class="header">
-        <h2>Awesome Petstore</h2>
+        <h2>Awesome Productstore</h2>
     </div>
     <hr>
     <div class="otp-section">
         <p>Hi {{ $name }},</p> <!-- Use server-side template engine syntax to insert the user's name -->
     </div>
     <div class="additional-text">
-        <p>Thanks for registering with us. Buy your desired pet with Awesome Petstore. Your OTP code is attached below. Use the following OTP code to complete the signup. The OTP is valid for 15 minutes.</p>
+        <p>Thanks for registering with us. Buy your desired product with Awesome Productstore. Your OTP code is attached below. Use the following OTP code to complete the signup. The OTP is valid for 15 minutes.</p>
     </div>
     <div class="button-section">
         <p class="button">{{ $otp }}</p> <!-- Display the OTP in a button (optional) -->
     </div>
     <hr>
     <div class="footer">
-        <p>Awesome PetStore</p>
+        <p>Awesome ProductStore</p>
         <p>All rights reserved</p>
     </div>
 </div>
