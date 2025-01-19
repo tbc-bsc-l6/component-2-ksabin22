@@ -115,11 +115,11 @@ export default function Dashboard() {
                     </thead>
                     <tbody>
                       <tr className=" flex gap-24">
-                        <td>carlos roberto </td>
-                        <td className="ml-[-10px]">20203</td>
-                        <td>momo</td>
-                        <td className="mr-[30px]">Tasty</td>
-                        <td>9837463271</td>
+                      <td>Sabin Khanal </td>
+                        <td className="ml-[-10px]">2025</td>
+                        <td>Wool</td>
+                        <td className="mr-[30px]">Luxery</td>
+                        <td>9849415278</td>
                       </tr>
                     </tbody>
                   </table>
